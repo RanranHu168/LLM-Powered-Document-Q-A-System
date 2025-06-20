@@ -6,7 +6,7 @@ A lightweight yet powerful prototype that transforms any uploaded PDF document (
 
 ---
 
-## 🚀 Live Demo (Optional)
+## 🚀 Live Demo
 
 <!-- Add GIF or screenshot if available -->
 ![Demo](demo.gif)
