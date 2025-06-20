@@ -5,8 +5,6 @@ A lightweight yet powerful prototype that transforms any uploaded PDF document (
 > 🔍 "Ask questions in natural language. Get answers from your documents. No training needed."
 
 ---
-
- HEAD
 ## 🚀 Live Demo 
 
 <!-- Add GIF or screenshot if available -->
